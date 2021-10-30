@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Hummel83
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning css
+- 🌱 I’m currently increase my css skills
