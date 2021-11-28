@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Hummel83
-- 👀 I’m interested in web dev
-- 🌱 I’m currently increase my css skills
+- 👋 Hi, I’m christian
+- 🌱 I’m currently increase my WPF skills
