@@ -1,2 +1,2 @@
 - 👋 Hi, I’m christian
-- 🌱 I’m currently increase my WPF skills
+- 🌱 I’m currently increase my css skills
