@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h1 align="left">Hi 👋, I'm Chris</h1>
+<h3 align="leftr">DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **Grafana**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
