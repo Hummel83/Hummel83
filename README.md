@@ -1,8 +1,5 @@
-<h1 align="left">Hi 👋, I'm Chris</h1>
-<h3 align="leftr">DevOps Engineer</h3>
-
+<h1 align="left">Hi 👋, I'm Chris a DevOps Engineer </h1>
 - 🌱 I’m currently learning **Python**
-
 
 <p align="left">
 </p>
