@@ -14,12 +14,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="vba" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/desktop/visual-basic" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb.net" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -53,5 +47,14 @@
   </a>
   <a href="https://www.openshift.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  </a>
+  <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/>
   </a>
 </p>
