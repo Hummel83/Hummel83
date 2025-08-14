@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chris, a DevOps Engineer</h1>
-<p>🌱 I’m currently learning <strong>Python</strong></p>
+<p>🌱 I’m currently learning <strong>Go</strong></p>
 
 <h2 align="left">This is my skillset:</h2>
 
@@ -13,6 +13,12 @@
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
 </p>
 
