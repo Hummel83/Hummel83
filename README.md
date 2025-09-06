@@ -23,9 +23,6 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-
-<!-- Container & Orchestration -->
-<h4 align="left">🛠️ Container & Orchestration</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -42,22 +39,12 @@
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png" alt="argocd" width="40" height="40"/>
   </a>
-</p>
-
-<!-- Cloud & OS -->
-<h4 align="left">☁️ Cloud & OS</h4>
-<p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-</p>
-
-<!-- Monitoring & Observability -->
-<h4 align="left">📊 Monitoring & Observability</h4>
-<p align="left">
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
@@ -67,19 +54,9 @@
   <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/>
   </a>
-</p>
-
-<!-- Secrets & Security -->
-<h4 align="left">🔐 Secrets & Security</h4>
-<p align="left">
   <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/>
   </a>
-</p>
-
-<!-- Databases -->
-<h4 align="left">🗄️ Databases</h4>
-<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
