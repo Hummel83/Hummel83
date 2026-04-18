@@ -1,32 +1,29 @@
-<h1 align="left">Hi 👋, I'm Chris, a DevOps Engineer</h1>
-<p>🌱 I’m currently learning <strong>TypeScript</strong></p>
+# Hi 👋, I'm Chris, a DevOps Engineer
 
-<h2 align="left">This is my skillset:</h2>
+🌱 I’m currently improve my  **TypeSript** skills
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
-</p>
+## This is my skillset:
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a>
-  <a href="https://www.openshift.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40" /></a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40" /></a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://argo-cd.readthedocs.io/en/stable/assets/argo.png" alt="argocd" width="40" height="40" /></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" /></a>
-  <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40" /></a>
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vault.svg" alt="vault" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" /></a>
-</p>
+### Languages
+[![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
+[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
+[![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://go.dev/)
+
+### Tools
+[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://www.docker.com/)
+[![kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io)
+[![openshift](https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg)](https://www.openshift.com/)
+[![helm](https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg)](https://helm.sh/)
+[![argocd](https://argo-cd.readthedocs.io/en/stable/assets/argo.png)](https://argo-cd.readthedocs.io/)
+[![gcp](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)](https://cloud.google.com)
+[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg)](https://grafana.com/)
+[![prometheus](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)](https://prometheus.io/)
+[![dynatrace](https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg)](https://www.dynatrace.com/)
+[![vault](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vault.svg)](https://www.vaultproject.io/)
+[![mssql](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
+[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
+[![oracle](https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg)](https://www.oracle.com/database/)
